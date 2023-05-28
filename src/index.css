@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Extra Bold";
+  src: url(./fonts/VioletSans-Regular.ttf);
+  font-weight: bolder;
+}
+@font-face {
+  font-family: "Regular";
+  src: url(./fonts/VioletSans-Regular.ttf);
+  font-weight: lighter;
+}
+body {
+  font-family: "Barlow", sans-serif;
+  margin: 0;
+  background-color: #0b0b0b;
+}
